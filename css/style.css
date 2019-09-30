@@ -1,0 +1,18 @@
+:focus {
+  background-color: green;
+}
+:valid {
+  background-color: aquamarine;
+}
+:invalid {
+  background-color: red;
+}
+:disabled {
+  background-color: gray;
+}
+input[type="checkbox"] {
+  width: 200px;
+}
+:checked {
+  background-color: blueviolet !important;
+}
